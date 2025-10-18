@@ -1,8 +1,4 @@
-Of course. Here is an interview-centric README section for your SMS Spam Detection project.
 
-This documentation is structured to be scanned quickly by a recruiter but also contains the technical depth to impress a hiring manager. It anticipates common interview questions like "What was the architecture?", "What challenges did you face?", and "How would you improve it?".
-
------
 
 # SMS Spam Detection System
 
